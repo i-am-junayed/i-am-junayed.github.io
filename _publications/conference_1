@@ -2,7 +2,6 @@
 title: "Predicting the Success of Suicide Terrorist Attacks using different Machine Learning Algorithms"
 collection: publications
 category: conference
-permalink: /publication/conference_1
 excerpt: 'The main objective of our paper is to predict different types of attacks, such as successful suicide attacks, successful non-suicide attacks, unsuccessful suicide attacks, and unsuccessful non-suicide attacks.'
 date: 2022-12-17
 venue: '25th International Conference on Computer and Information Technology (ICCIT)'
