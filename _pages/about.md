@@ -23,10 +23,13 @@ redirect_from:
       languages.forEach(lang => document.getElementById(lang).style.display = 'none');
       
       // Show the current language paragraph
-      document.getElementById(languages[currentLang]).style.display = 'inline';
+      const currentParagraph = document.getElementById(languages[currentLang]);
+      if (currentParagraph) {
+        currentParagraph.style.display = 'inline';
+      }
       
       // Update the currentLang index
       currentLang = (currentLang + 1) % languages.length;
-    }, 1000); // Switch language every 1 second
+    }, 2000); // Switch language every 2 seconds
   });
 </script>
