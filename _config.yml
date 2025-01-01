@@ -21,7 +21,7 @@ repository               : "i-am-junayed.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.png"
   name             : "MD Junayed Hossain"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer || Researcher"
