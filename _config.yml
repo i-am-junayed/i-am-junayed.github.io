@@ -1,5 +1,4 @@
 ---
-layout: default
 permalink: /
 title: "Welcome to my personal website.."
 author_profile: true
@@ -14,30 +13,23 @@ redirect_from:
   <p id="french" style="display: none;">Bienvenue sur ma page GitHub! N'hésitez pas à explorer mes projets, mes contributions et mes idées. Je suis ravi de partager mon travail avec vous!</p>
 </div>
 
-{% raw %}
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     let currentLang = 0; // Start with English
     const languages = ['english', 'bangla', 'french'];
-
+    
     setInterval(function () {
       // Hide all paragraphs
-      languages.forEach(lang => {
-        const element = document.getElementById(lang);
-        if (element) {
-          element.style.display = 'none';
-        }
-      });
-
+      languages.forEach(lang => document.getElementById(lang).style.display = 'none');
+      
       // Show the current language paragraph
       const currentParagraph = document.getElementById(languages[currentLang]);
       if (currentParagraph) {
         currentParagraph.style.display = 'inline';
       }
-
+      
       // Update the currentLang index
       currentLang = (currentLang + 1) % languages.length;
     }, 2000); // Switch language every 2 seconds
   });
 </script>
-{% endraw %}
