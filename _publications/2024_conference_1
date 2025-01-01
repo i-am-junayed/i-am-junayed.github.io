@@ -1,0 +1,10 @@
+---
+title: "NeuralGesture Communication: Translating one Sign Language to Another Sign Language Using Deep Learning Model and gTTs"
+collection: publications
+category: conference
+excerpt: ' This study introduces a system translating sign languages using deep learning models (CNN, VGG16, ResNet) for seamless communication, achieving 99.98% accuracy with Bangla and ASL datasets.'
+date: 2024-08-25
+venue: '2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)'
+paperurl: 'https://ieeexplore.ieee.org/document/10683444'
+downloadpaperurl: 'https://www.researchgate.net/publication/384349156_NeuralGesture_Communication_Translating_one_Sign_Language_to_Another_Sign_Language_Using_Deep_Learning_Model_and_gTTs'
+---
