@@ -1,0 +1,11 @@
+---
+title: "Repercussion of Image Compression on Satellite Image Classification using Deep Learning Models"
+collection: publications
+category: conference
+excerpt: '
+This paper reduces satellite image pixel size using interpolation techniques and evaluates Deep Learning models for efficient classification and transmission.'
+date: 2023-07-07
+venue: '2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)'
+paperurl: 'https://ieeexplore.ieee.org/document/10333668'
+downloadpaperurl: 'https://www.researchgate.net/publication/376426511_Repercussion_of_Image_Compression_on_Satellite_Image_Classification_using_Deep_Learning_Models'
+---
