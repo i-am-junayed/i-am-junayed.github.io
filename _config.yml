@@ -76,11 +76,13 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  book-chapters:
+    title: 'Book Chapter'
   books:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  conference:
     title: 'Conference Papers'
 
 # Site Settings
