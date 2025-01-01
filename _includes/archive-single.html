@@ -15,10 +15,10 @@
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.paperurl %}
         <!-- If paperurl exists, click the title to go to the paper URL -->
-        <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
+        <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
       {% else %}
         <!-- If no paperurl, fall back to the post's permalink -->
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
       {% endif %}
     </h2>
 
