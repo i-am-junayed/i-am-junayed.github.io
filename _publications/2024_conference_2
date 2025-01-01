@@ -1,0 +1,10 @@
+---
+title: "Advancements in Bangla Speech Emotion Recognition: A Deep Learning Approach with Cross-Lingual Validation"
+collection: publications
+category: conference
+excerpt: 'This study proposes a Bangla Speech Emotion Recognition framework using data augmentation, feature extraction, and a Deep Neural Network, achieving 99% accuracy on unseen data.'
+date: 2024-08-25
+venue: '2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)'
+paperurl: 'https://ieeexplore.ieee.org/document/10683404'
+downloadpaperurl: 'https://www.researchgate.net/publication/384335963_Advancements_in_Bangla_Speech_Emotion_Recognition_A_Deep_Learning_Approach_with_Cross-Lingual_Validation'
+---
