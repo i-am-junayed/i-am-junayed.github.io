@@ -1,0 +1,10 @@
+---
+title: "Multiclass Classification of GvHD and Relapse: A Comparative Analysis Among Machine Learning and ANN-based Algorithms"
+collection: publications
+category: conference
+excerpt: 'In this study, a multiclass target feature is created to predict potential GvHD and relapse pairings using only three and six crucial attributes from the original dataset, and a comparative analysis is performed between them.'
+date: 2022-12-17
+venue: '25th International Conference on Computer and Information Technology (ICCIT)'
+paperurl: 'https://ieeexplore.ieee.org/document/10054671'
+downloadpaperurl: 'https://www.researchgate.net/publication/368996491_Multiclass_Classification_of_GvHD_and_Relapse_A_Comparative_Analysis_Among_Machine_Learning_and_ANN-based_Algorithms'
+---
