@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to my personal website.."
 author_profile: true
@@ -13,17 +14,19 @@ redirect_from:
 </div>
 
 <script>
-  let currentLang = 0; // Start with English
-  const languages = ['english', 'bangla', 'french'];
-  
-  setInterval(function() {
-    // Hide all paragraphs
-    languages.forEach(lang => document.getElementById(lang).style.display = 'none');
+  document.addEventListener("DOMContentLoaded", function () {
+    let currentLang = 0; // Start with English
+    const languages = ['english', 'bangla', 'french'];
     
-    // Show the next paragraph
-    document.getElementById(languages[currentLang]).style.display = 'inline';
-    
-    // Update currentLang index
-    currentLang = (currentLang + 1) % languages.length;
-  }, 1000); // Switch language every 1 second
+    setInterval(function () {
+      // Hide all paragraphs
+      languages.forEach(lang => document.getElementById(lang).style.display = 'none');
+      
+      // Show the current language paragraph
+      document.getElementById(languages[currentLang]).style.display = 'inline';
+      
+      // Update the currentLang index
+      currentLang = (currentLang + 1) % languages.length;
+    }, 1000); // Switch language every 1 second
+  });
 </script>
