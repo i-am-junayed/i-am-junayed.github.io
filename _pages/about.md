@@ -17,19 +17,30 @@ redirect_from:
   document.addEventListener("DOMContentLoaded", function () {
     let currentLang = 0; // Start with English
     const languages = ['english', 'bangla', 'french'];
-    
+
     setInterval(function () {
+      console.log("Switching language...");
+
       // Hide all paragraphs
-      languages.forEach(lang => document.getElementById(lang).style.display = 'none');
-      
+      languages.forEach(lang => {
+        const element = document.getElementById(lang);
+        if (element) {
+          element.style.display = 'none';
+        } else {
+          console.error(`Element with ID "${lang}" not found`);
+        }
+      });
+
       // Show the current language paragraph
       const currentParagraph = document.getElementById(languages[currentLang]);
       if (currentParagraph) {
         currentParagraph.style.display = 'inline';
+        console.log("Language switched to:", languages[currentLang]);
       }
-      
+
       // Update the currentLang index
       currentLang = (currentLang + 1) % languages.length;
     }, 2000); // Switch language every 2 seconds
   });
 </script>
+
