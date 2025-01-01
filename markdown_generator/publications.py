@@ -119,7 +119,7 @@ for row, item in publications.iterrows():
     
     # Use the paper URL for permalink if it exists
     if len(str(item.paper_url)) > 5:
-        md += item.paper_url
+        md += """\npermalink: """ + item.paper_url
     else:
         md += """\npermalink: /publication/""" + html_filename
     
