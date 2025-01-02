@@ -3,7 +3,7 @@ title: "Faculty"
 collection: teaching
 type: "Lecturer"
 venue: "Independent University, Bangladesh"
-date: "April 2023"
+date: "September 2023"
 location: "Dhaka, Bangladesh"
 ---
 
