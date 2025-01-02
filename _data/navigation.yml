@@ -9,12 +9,8 @@ main:
     url:
 
   - title: "Publications"
-    children:
-      - title: "Published Research"
-        url: /publications/
-      - title: "Ongoing Research"
-        url: /publications/ongoing/
-
+    url: /publications/
+    
   - title: "Talks"
     url: /talks/    
 
