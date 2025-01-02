@@ -1,5 +1,5 @@
 ---
-title: "Data Analyst"
+role: "Data Analyst"
 collection: teaching
 type: "Trainee Data Analyst"
 venue: "ADN Diginet"
