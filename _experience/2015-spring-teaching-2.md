@@ -2,7 +2,7 @@
 title: "Research Engineer"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /experience/
 venue: "Independent University, Bangladesh"
 date: "July 2023"
 location: "Dhaka, Bangladesh"
