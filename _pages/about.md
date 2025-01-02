@@ -17,8 +17,9 @@ redirect_from:
   document.addEventListener("DOMContentLoaded", function () {
     let currentLang = 0; // Start with English
     const languages = ['english', 'bangla', 'french'];
-    
-    setInterval(function () {
+
+    // Function to switch the displayed language
+    function switchLanguage() {
       // Hide all paragraphs
       languages.forEach(lang => document.getElementById(lang).style.display = 'none');
       
@@ -30,6 +31,12 @@ redirect_from:
       
       // Update the currentLang index
       currentLang = (currentLang + 1) % languages.length;
-    }, 2000); // Switch language every 2 seconds
+    }
+
+    // Set an interval to switch languages every 2 seconds
+    setInterval(switchLanguage, 2000);
+
+    // Initially call switchLanguage to show the first language immediately
+    switchLanguage();
   });
 </script>
