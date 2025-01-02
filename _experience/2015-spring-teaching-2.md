@@ -2,7 +2,6 @@
 title: "Research Engineer"
 collection: teaching
 type: "CCDS"
-permalink: /experience/
 venue: "Independent University, Bangladesh"
 date: "July 2023"
 location: "Dhaka, Bangladesh"
