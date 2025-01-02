@@ -7,9 +7,13 @@
 main:
   - title: "Home"
     url:
-    
+
   - title: "Publications"
-    url: /publications/
+    children:
+      - title: "Published Research"
+        url: /publications/
+      - title: "Ongoing Research"
+        url: /publications/ongoing/
 
   - title: "Talks"
     url: /talks/    
@@ -28,3 +32,4 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
