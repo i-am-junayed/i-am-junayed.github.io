@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <div id="welcoming-text">
   <p id="english" style="display: inline;">Welcome to my GitHub page! Feel free to explore my projects, contributions, and ideas. I’m excited to share my work with you!</p>
   <p id="bangla" style="display: none;">আমার GitHub পেজে স্বাগতম! আমার প্রকল্প, অবদান, এবং ধারণাগুলি অন্বেষণ করতে বিনা দ্বিধায় আসুন। আমি আপনাদের সাথে আমার কাজ শেয়ার করতে উত্তেজিত!</p>
@@ -18,17 +17,16 @@ redirect_from:
     let currentLang = 0; // Start with English
     const languages = ['english', 'bangla', 'french'];
 
-    // Function to switch the displayed language
     function switchLanguage() {
       // Hide all paragraphs
       languages.forEach(lang => document.getElementById(lang).style.display = 'none');
-      
+
       // Show the current language paragraph
       const currentParagraph = document.getElementById(languages[currentLang]);
       if (currentParagraph) {
         currentParagraph.style.display = 'inline';
       }
-      
+
       // Update the currentLang index
       currentLang = (currentLang + 1) % languages.length;
     }
