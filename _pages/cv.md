@@ -9,17 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+## Download CV
+[Click here to download my CV (PDF)](/assets/my_CV.pdf)
+
+---
+
 Education
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
 
 Work experience
 ======
-  <ul>{% for post in site.experience reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>{% for post in site.experience reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
   
 Skills
 ======
@@ -27,15 +32,13 @@ Skills
     * Python, C, C++
 * Web Technologies
     * HTML 5, PHP, Javascript
- * Computer skills
+* Computer skills
     * PyTorch, keras, C, C++, Advanced JAVA
-  
- * Database
-     * SQL, MySQL, MongoDB
+* Database
+    * SQL, MySQL, MongoDB
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
