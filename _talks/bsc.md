@@ -1,5 +1,5 @@
 ---
-title: "Bsc"
+title: "Bachelor of Science (BSc)"
 collection: teaching
 type: "Computer Science and Engineering"
 venue: "Independent University Bangladesh"
