@@ -1,6 +1,6 @@
 ---
 title: "Best Undergrade Researcher"
-excerpt: "Research Excellence !! <br/><img src='/images/r_d_1'> <br/><img src='/images/r_d_2'>"
+excerpt: "Research Excellence !! <br/><img src='/images/r_d_1.jpg'> <br/><img src='/images/r_d_2.jpg'>"
 collection: portfolio
 ---
 
