@@ -1,5 +1,5 @@
 ---
-title: "HSC"
+title: "Secondary School Certificate"
 collection: teaching
 type: "Science"
 venue: "Dhaka Residential Model College"
