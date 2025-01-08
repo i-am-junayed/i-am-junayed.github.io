@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Current Research"
+permalink: /ongoing/
+author_profile: true
+
+---
+
 Accepted Papers
 =====
 *  Comparative Performance of Object Detection Algorithms Under Low Illumination Conditions.
