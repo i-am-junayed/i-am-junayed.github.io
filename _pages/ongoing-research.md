@@ -9,13 +9,13 @@ author_profile: true
 # Accepted Papers
 
 - **Comparative Performance of Object Detection Algorithms Under Low Illumination Conditions**  
-  *Venue*: SouthEastCon-2025
+  *Venue*: IEEE SouthsastCon-2025, Concord, North Carolina, United States.
 
 - **Hybrid Approaches of ROI Extraction and Pixel Reduction for Classifying Kidney Abnormalities**  
-  *Venue*: SouthEastCon-2025
+  *Venue*: IEEE SouthsastCon-2025, Concord, North Carolina, United States.
 
 - **A Theoretical Framework for Decentralized Intrusion Detection in Smart Networks using Blockchain and Machine Learning**  
-  *Venue*: AINA-2025
+  *Venue*: AINA-2025, Catalonia, Barcelona, Spain.
 
 # Ongoing Research
 
