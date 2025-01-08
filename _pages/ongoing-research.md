@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Current Research"
-permalink: /ongoing/
+permalink: /ongoing-research/
 author_profile: true
 
 ---
