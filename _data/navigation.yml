@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Ongoing Research"
+    url: /ongoing_research/
+    
   - title: "Education"
     url: /talks/    
 
