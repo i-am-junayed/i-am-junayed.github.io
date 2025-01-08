@@ -9,8 +9,11 @@ author_profile: true
 # Accepted Papers
 
 - **Comparative Performance of Object Detection Algorithms Under Low Illumination Conditions.**
+  Venue : SouthEastCon-2025
 - **Hybrid Approaches of ROI Extraction and Pixel Reduction for Classifying Kidney Abnormalities.**
+  Venue : SouthEastCon-2025
 - **A Theoretical Framework for Decentralized Intrusion Detection in Smart Networks using Blockchain and Machine Learning.**
+  Venue : AINA-2025
 
 # Ongoing Research
 
