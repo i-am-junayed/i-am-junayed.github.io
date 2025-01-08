@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 <div id="welcoming-text">
-  <p id="english" style="display: inline;">Welcome to my GitHub page! Feel free to explore my projects, contributions, and ideas. I’m excited to share my work with you!</p>
+  <p id="english" style="display: inline;">Assalamualaikum and Welcome !! 
+    Feel free to explore my projects, contributions, and ideas. I’m excited to share my work with you!</p>
   <p id="bangla" style="display: none;">আমার GitHub পেজে স্বাগতম! আমার প্রকল্প, অবদান, এবং ধারণাগুলি অন্বেষণ করতে বিনা দ্বিধায় আসুন। আমি আপনাদের সাথে আমার কাজ শেয়ার করতে উত্তেজিত!</p>
   <p id="french" style="display: none;">Bienvenue sur ma page GitHub! N'hésitez pas à explorer mes projets, mes contributions et mes idées. Je suis ravi de partager mon travail avec vous!</p>
 </div>
