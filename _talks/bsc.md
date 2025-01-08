@@ -7,5 +7,8 @@ date: "December 2022"
 location: "Dhaka, Bangladesh"
 ---
 
-**Minor:**
-- Big Data and High Performance Computing. 
+### **Minor**
+- Big Data and High-Performance Computing
+
+### **Thesis Topic**
+- Multiclass Classification for GvHD Prognosis Prior to Allogeneic Stem Cell Transplantation
