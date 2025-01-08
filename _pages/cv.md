@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Download CV
-[Click here to download my CV (PDF)](/assets/my_CV.pdf)
+[Click here to download my CV (PDF)](/assets/md_junayed_hossain_CV.pdf)
 
 ---
 
