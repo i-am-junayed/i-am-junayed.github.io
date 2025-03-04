@@ -11,7 +11,7 @@ location: "Dhaka, Bangladesh"
 - Introduction to Computer Programming.  
   [Course Materials](https://github.com/i-am-junayed/data-structure)
 - Data Structure.  
-  [Course Materials](https://github.com/i-am-junayed/data-structure)
+  [Course Materials](https://github.com/i-am-junayed/introduction-to-computer-programming)
 - Algorithms.  
   [Course Materials](https://github.com/i-am-junayed/algorithms)
   
