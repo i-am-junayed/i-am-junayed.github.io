@@ -8,6 +8,10 @@ location: "Dhaka, Bangladesh"
 ---
 
 **Courses Taught:**
-- Introduction to Computer Programming.
-- Data Structure.
-- Algorithms.
+- Introduction to Computer Programming.  
+  [Course Material](https://github.com/i-am-junayed/data-structure)
+- Data Structure.  
+  [Course Material](https://github.com/i-am-junayed/data-structure)
+- Algorithms.  
+  [Course Material](https://github.com/i-am-junayed/algorithms)
+  
