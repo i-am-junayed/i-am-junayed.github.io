@@ -15,7 +15,7 @@ author_profile: true
   *Venue*: IEEE SouthsastCon-2025, Concord, North Carolina, United States.
 
 - **Adaptive Defense: Zero-Day Attack Detection in NIDS with Deep Reinforcement Learning**  
-  *Journal*: IEEE Access *IF*: 3.4
+  *Journal*: **IEEE Access** *IF*: **3.4**
 
 # Ongoing Research
 
