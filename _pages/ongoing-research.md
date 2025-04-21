@@ -14,8 +14,8 @@ author_profile: true
 - **Hybrid Approaches of ROI Extraction and Pixel Reduction for Classifying Kidney Abnormalities**  
   *Venue*: IEEE SouthsastCon-2025, Concord, North Carolina, United States.
 
-- **A Theoretical Framework for Decentralized Intrusion Detection in Smart Networks using Blockchain and Machine Learning**  
-  *Venue*: AINA-2025, Catalonia, Barcelona, Spain.
+- **Adaptive Defense: Zero-Day Attack Detection in NIDS with Deep Reinforcement Learning**  
+  *Journal*: IEEE Access *IF*: 3.4
 
 # Ongoing Research
 
